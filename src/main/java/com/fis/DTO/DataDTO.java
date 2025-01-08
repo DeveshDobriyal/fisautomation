@@ -21,6 +21,7 @@ public class DataDTO {
 	@SerializedName("bpi")
 	@Expose
 	private Bpi bpi;
+	
 
 	public Time getTime() {
 		return time;
