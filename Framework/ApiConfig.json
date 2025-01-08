@@ -1,0 +1,15 @@
+{
+	"FetchFullData": {
+		"endpoint": "v1/bpi/currentprice.json",
+		"Header": {
+		"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate, br",
+			"Connection": "keep-alive",
+			"User-Agent": "PostmanRuntime/7.43.0",
+			"Host": "api.coindesk.com"
+		},
+		"QueryParam": "null",
+		"Body": "null"
+	}
+}
